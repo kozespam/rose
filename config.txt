@@ -3,4 +3,4 @@ prefix=rplay
 game=Break | rplay
 stayinchannel=true
 songinstatus=true
-token=NTQxOTQ4ODcyMTEzNjUxNzIz.Dzm40A.IpiWi5UY6L2D5JhrZNChdJSZ2Fo
+token=NTUxNDE3Mjk4MTAwMTU4NDg1.D1wrkg.TbiQRgvoecr1sLAMbZfYV7YjhTw
