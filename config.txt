@@ -1,0 +1,6 @@
+owner=551401440392904764
+prefix=rplay
+game=Break | rplay
+stayinchannel=true
+songinstatus=true
+token=NTQxOTQ4ODcyMTEzNjUxNzIz.Dzm40A.IpiWi5UY6L2D5JhrZNChdJSZ2Fo
